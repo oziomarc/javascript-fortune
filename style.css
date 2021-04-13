@@ -27,4 +27,10 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
+  transition: width 1s, transform 1s;
 }
+
+.image::hover {
+  width: 30%;
+  transform: rotate(180deg);
+}  
