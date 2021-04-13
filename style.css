@@ -1,0 +1,30 @@
+body {
+  margin: 5vw 10vw 0px 10vw;
+  padding: 0px;
+  background-color: #D6D6D6;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  text-shadow: 2px 2px 2px #000;
+}
+
+#instructions {
+  margin-top: 5em;
+}
+
+#userInput {
+  margin-bottom: 5em;
+}
+
+#result {
+  margin-bottom: 20em;
+}
+
+.image {
+  content: url('images/crystal-ball.webp');
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
